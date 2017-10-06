@@ -1,4 +1,4 @@
-# Advanced_C-
+# Advanced_Cpp
 homework assignments for Advanced Cpp class
 
 8/31/17 - Tic Tac oop version
